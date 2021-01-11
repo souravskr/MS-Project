@@ -1,0 +1,751 @@
+,iterations,dimacs,runtime,solution,minisat_satisfiability,minisat_solution
+0,26,n_5_m_10,0.0001,"[False,False,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+1,26,n_5_m_11,0.0215,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+2,26,n_5_m_12,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+3,26,n_5_m_13,0.0176,0, SATISFIABLE,v 1 -2 -3 4 -5 0
+4,26,n_5_m_14,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+5,26,n_5_m_15,0.0001,"[True,True,False,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+6,26,n_5_m_16,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+7,26,n_5_m_17,0.0178,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+8,26,n_5_m_18,0.0181,0, SATISFIABLE,v 1 2 -3 -4 5 0
+9,26,n_5_m_19,0.0176,0, UNSATISFIABLE,0
+10,26,n_5_m_20,0.019,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+11,26,n_5_m_21,0.0001,"[True,False,True,False,True]", SATISFIABLE,v -1 2 3 4 5 0
+12,26,n_5_m_22,0.0191,0, SATISFIABLE,v 1 -2 3 -4 5 0
+13,26,n_5_m_23,0.0184,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+14,26,n_5_m_24,0.0186,0, SATISFIABLE,v 1 2 -3 -4 -5 0
+15,26,n_5_m_10,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+16,26,n_5_m_11,0.0001,"[False,False,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+17,26,n_5_m_12,0.0182,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+18,26,n_5_m_13,0.018,0, SATISFIABLE,v -1 2 -3 4 -5 0
+19,26,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+20,26,n_5_m_15,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+21,26,n_5_m_16,0.0184,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+22,26,n_5_m_17,0.0206,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+23,26,n_5_m_18,0.019,0, SATISFIABLE,v -1 2 3 4 -5 0
+24,26,n_5_m_19,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 -2 -3 4 -5 0
+25,26,n_5_m_20,0.0181,0, UNSATISFIABLE,0
+26,26,n_5_m_21,0.0001,"[True,True,False,False,True]", SATISFIABLE,v -1 -2 -3 4 -5 0
+27,26,n_5_m_22,0.018,0, UNSATISFIABLE,0
+28,26,n_5_m_23,0.0184,0, UNSATISFIABLE,0
+29,26,n_5_m_24,0.0199,0, UNSATISFIABLE,0
+30,26,n_5_m_10,0.0172,0, SATISFIABLE,v -1 2 -3 4 -5 0
+31,26,n_5_m_11,0.0173,"[True,False,False,False,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+32,26,n_5_m_12,0.018,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+33,26,n_5_m_13,0.0175,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+34,26,n_5_m_14,0.0175,0, SATISFIABLE,v 1 -2 3 -4 -5 0
+35,26,n_5_m_15,0.0172,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+36,26,n_5_m_16,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+37,26,n_5_m_17,0.0169,0, SATISFIABLE,v -1 2 3 -4 5 0
+38,26,n_5_m_18,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+39,26,n_5_m_19,0.0193,0, SATISFIABLE,v -1 2 3 4 -5 0
+40,26,n_5_m_20,0.0181,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+41,26,n_5_m_21,0.0175,0, UNSATISFIABLE,0
+42,26,n_5_m_22,0.0179,0, UNSATISFIABLE,0
+43,26,n_5_m_23,0.0214,0, UNSATISFIABLE,0
+44,26,n_5_m_24,0.0225,0, SATISFIABLE,v -1 2 3 -4 -5 0
+45,26,n_5_m_10,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+46,26,n_5_m_11,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+47,26,n_5_m_12,0.0183,0, SATISFIABLE,v -1 2 -3 4 -5 0
+48,26,n_5_m_13,0.0182,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+49,26,n_5_m_14,0.017,0, SATISFIABLE,v -1 2 3 4 5 0
+50,26,n_5_m_15,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+51,26,n_5_m_16,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+52,26,n_5_m_17,0.0001,"[True,False,True,False,True]", SATISFIABLE,v 1 -2 -3 -4 5 0
+53,26,n_5_m_18,0.0001,"[True,True,True,True,False]", SATISFIABLE,v 1 2 3 4 -5 0
+54,26,n_5_m_19,0.0176,0, UNSATISFIABLE,0
+55,26,n_5_m_20,0.0174,0, SATISFIABLE,v -1 2 3 4 5 0
+56,26,n_5_m_21,0.0178,0, SATISFIABLE,v -1 2 -3 -4 5 0
+57,26,n_5_m_22,0.0177,0, UNSATISFIABLE,0
+58,26,n_5_m_23,0.0001,"[True,False,True,False,False]", SATISFIABLE,v 1 -2 3 -4 -5 0
+59,26,n_5_m_24,0.0173,0, UNSATISFIABLE,0
+60,26,n_5_m_10,0.0169,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+61,26,n_5_m_11,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+62,26,n_5_m_12,0.0179,"[False,True,False,False,True]", SATISFIABLE,v -1 2 3 4 -5 0
+63,26,n_5_m_13,0.0001,"[False,True,True,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+64,26,n_5_m_14,0.0001,"[True,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+65,26,n_5_m_15,0.0175,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+66,26,n_5_m_16,0.0174,0, SATISFIABLE,v -1 2 -3 4 -5 0
+67,26,n_5_m_17,0.0174,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+68,26,n_5_m_18,0.0165,0, SATISFIABLE,v 1 -2 -3 4 5 0
+69,26,n_5_m_19,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+70,26,n_5_m_20,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+71,26,n_5_m_21,0.0001,"[False,True,True,True,True]", SATISFIABLE,v -1 2 3 -4 -5 0
+72,26,n_5_m_22,0.0177,0, SATISFIABLE,v -1 -2 3 4 -5 0
+73,26,n_5_m_23,0.0181,0, SATISFIABLE,v -1 2 -3 4 5 0
+74,26,n_5_m_24,0.0188,0, UNSATISFIABLE,0
+75,26,n_5_m_10,0.0192,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+76,26,n_5_m_11,0.0001,"[True,False,True,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+77,26,n_5_m_12,0.0178,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+78,26,n_5_m_13,0.0196,0, SATISFIABLE,v -1 2 3 -4 -5 0
+79,26,n_5_m_14,0.0001,"[True,True,True,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+80,26,n_5_m_15,0.0001,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+81,26,n_5_m_16,0.0182,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+82,26,n_5_m_17,0.0001,"[False,False,True,False,True]", SATISFIABLE,v -1 -2 3 -4 5 0
+83,26,n_5_m_18,0.017,0, SATISFIABLE,v -1 -2 3 4 5 0
+84,26,n_5_m_19,0.0176,0, SATISFIABLE,v -1 2 3 4 5 0
+85,26,n_5_m_20,0.0191,0, SATISFIABLE,v -1 2 3 4 5 0
+86,26,n_5_m_21,0.0194,0, UNSATISFIABLE,0
+87,26,n_5_m_22,0.0174,0, UNSATISFIABLE,0
+88,26,n_5_m_23,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 4 -5 0
+89,26,n_5_m_24,0.0221,0, SATISFIABLE,v -1 -2 3 4 -5 0
+90,26,n_5_m_10,0.0185,"[False,True,True,True,True]", SATISFIABLE,v -1 -2 3 -4 -5 0
+91,26,n_5_m_11,0.0187,0, SATISFIABLE,v -1 2 3 4 5 0
+92,26,n_5_m_12,0.0173,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+93,26,n_5_m_13,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+94,26,n_5_m_14,0.0001,"[False,True,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+95,26,n_5_m_15,0.0196,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+96,26,n_5_m_16,0.021,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+97,26,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+98,26,n_5_m_18,0.0181,0, SATISFIABLE,v -1 2 -3 4 -5 0
+99,26,n_5_m_19,0.0174,0, SATISFIABLE,v 1 2 3 -4 -5 0
+100,26,n_5_m_20,0.0176,0, SATISFIABLE,v 1 -2 -3 -4 5 0
+101,26,n_5_m_21,0.0182,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+102,26,n_5_m_22,0.0191,0, UNSATISFIABLE,0
+103,26,n_5_m_23,0.019,0, SATISFIABLE,v 1 2 -3 4 -5 0
+104,26,n_5_m_24,0.0206,0, UNSATISFIABLE,0
+105,26,n_5_m_10,0.0181,0, SATISFIABLE,v -1 2 -3 4 5 0
+106,26,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+107,26,n_5_m_12,0.0001,"[True,True,True,True,True]", SATISFIABLE,v -1 -2 3 4 5 0
+108,26,n_5_m_13,0.0001,"[True,True,True,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+109,26,n_5_m_14,0.0181,0, UNSATISFIABLE,0
+110,26,n_5_m_15,0.0171,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+111,26,n_5_m_16,0.0178,0, SATISFIABLE,v -1 2 -3 4 -5 0
+112,26,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+113,26,n_5_m_18,0.0001,"[False,False,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+114,26,n_5_m_19,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+115,26,n_5_m_20,0.0187,0, SATISFIABLE,v 1 -2 -3 4 5 0
+116,26,n_5_m_21,0.0182,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+117,26,n_5_m_22,0.018,0, UNSATISFIABLE,0
+118,26,n_5_m_23,0.017,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+119,26,n_5_m_24,0.0181,0, UNSATISFIABLE,0
+120,26,n_5_m_10,0.0172,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+121,26,n_5_m_11,0.0185,0, SATISFIABLE,v -1 -2 3 4 -5 0
+122,26,n_5_m_12,0.018,0, SATISFIABLE,v -1 2 3 -4 -5 0
+123,26,n_5_m_13,0.0173,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+124,26,n_5_m_14,0.0176,0, SATISFIABLE,v 1 -2 -3 -4 -5 0
+125,26,n_5_m_15,0.0173,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+126,26,n_5_m_16,0.023,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+127,26,n_5_m_17,0.0183,0, SATISFIABLE,v 1 -2 3 4 5 0
+128,26,n_5_m_18,0.0177,0, SATISFIABLE,v -1 2 3 -4 -5 0
+129,26,n_5_m_19,0.0001,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+130,26,n_5_m_20,0.0001,"[True,True,False,False,False]", SATISFIABLE,v 1 2 -3 -4 -5 0
+131,26,n_5_m_21,0.0176,0, SATISFIABLE,v 1 -2 -3 -4 -5 0
+132,26,n_5_m_22,0.0175,0, UNSATISFIABLE,0
+133,26,n_5_m_23,0.019,0, UNSATISFIABLE,0
+134,26,n_5_m_24,0.018,0, SATISFIABLE,v -1 2 -3 4 5 0
+135,26,n_5_m_10,0.0179,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 4 -5 0
+136,26,n_5_m_11,0.0001,"[True,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 -5 0
+137,26,n_5_m_12,0.0001,"[True,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+138,26,n_5_m_13,0.0171,0, SATISFIABLE,v -1 2 -3 4 5 0
+139,26,n_5_m_14,0.0173,0, SATISFIABLE,v -1 -2 3 4 -5 0
+140,26,n_5_m_15,0.0197,0, SATISFIABLE,v -1 2 -3 4 -5 0
+141,26,n_5_m_16,0.018,0, SATISFIABLE,v -1 -2 3 4 -5 0
+142,26,n_5_m_17,0.0181,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+143,26,n_5_m_18,0.0176,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+144,26,n_5_m_19,0.0177,0, SATISFIABLE,v 1 2 -3 4 5 0
+145,26,n_5_m_20,0.0191,0, UNSATISFIABLE,0
+146,26,n_5_m_21,0.0176,0, SATISFIABLE,v -1 2 -3 4 -5 0
+147,26,n_5_m_22,0.0188,0, SATISFIABLE,v 1 -2 3 -4 5 0
+148,26,n_5_m_23,0.0185,0, UNSATISFIABLE,0
+149,26,n_5_m_24,0.0178,0, UNSATISFIABLE,0
+150,50,n_5_m_10,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+151,50,n_5_m_11,0.0192,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+152,50,n_5_m_12,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+153,50,n_5_m_13,0.0001,"[True,True,False,True,True]", SATISFIABLE,v 1 -2 -3 4 -5 0
+154,50,n_5_m_14,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+155,50,n_5_m_15,0.0001,"[True,True,False,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+156,50,n_5_m_16,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+157,50,n_5_m_17,0.0181,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+158,50,n_5_m_18,0.0175,0, SATISFIABLE,v 1 2 -3 -4 5 0
+159,50,n_5_m_19,0.0166,0, UNSATISFIABLE,0
+160,50,n_5_m_20,0.0183,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+161,50,n_5_m_21,0.0001,"[True,False,True,False,True]", SATISFIABLE,v -1 2 3 4 5 0
+162,50,n_5_m_22,0.0178,0, SATISFIABLE,v 1 -2 3 -4 5 0
+163,50,n_5_m_23,0.0177,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+164,50,n_5_m_24,0.0168,0, SATISFIABLE,v 1 2 -3 -4 -5 0
+165,50,n_5_m_10,0.0001,"[False,False,True,True,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+166,50,n_5_m_11,0.0001,"[False,False,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+167,50,n_5_m_12,0.0001,"[False,False,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+168,50,n_5_m_13,0.0178,0, SATISFIABLE,v -1 2 -3 4 -5 0
+169,50,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+170,50,n_5_m_15,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+171,50,n_5_m_16,0.0168,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+172,50,n_5_m_17,0.0209,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+173,50,n_5_m_18,0.0226,0, SATISFIABLE,v -1 2 3 4 -5 0
+174,50,n_5_m_19,0.0212,"[False,True,True,False,True]", SATISFIABLE,v -1 -2 -3 4 -5 0
+175,50,n_5_m_20,0.0178,0, UNSATISFIABLE,0
+176,50,n_5_m_21,0.0187,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+177,50,n_5_m_22,0.0176,0, UNSATISFIABLE,0
+178,50,n_5_m_23,0.0173,0, UNSATISFIABLE,0
+179,50,n_5_m_24,0.0208,0, UNSATISFIABLE,0
+180,50,n_5_m_10,0.0185,0, SATISFIABLE,v -1 2 -3 4 -5 0
+181,50,n_5_m_11,0.0178,"[True,False,False,False,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+182,50,n_5_m_12,0.0182,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+183,50,n_5_m_13,0.0174,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+184,50,n_5_m_14,0.0172,0, SATISFIABLE,v 1 -2 3 -4 -5 0
+185,50,n_5_m_15,0.0174,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+186,50,n_5_m_16,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+187,50,n_5_m_17,0.019,0, SATISFIABLE,v -1 2 3 -4 5 0
+188,50,n_5_m_18,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+189,50,n_5_m_19,0.0177,0, SATISFIABLE,v -1 2 3 4 -5 0
+190,50,n_5_m_20,0.0176,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+191,50,n_5_m_21,0.0182,0, UNSATISFIABLE,0
+192,50,n_5_m_22,0.0179,0, UNSATISFIABLE,0
+193,50,n_5_m_23,0.0202,0, UNSATISFIABLE,0
+194,50,n_5_m_24,0.0177,0, SATISFIABLE,v -1 2 3 -4 -5 0
+195,50,n_5_m_10,0.0174,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+196,50,n_5_m_11,0.0167,"[True,True,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+197,50,n_5_m_12,0.0185,0, SATISFIABLE,v -1 2 -3 4 -5 0
+198,50,n_5_m_13,0.0177,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+199,50,n_5_m_14,0.0178,0, SATISFIABLE,v -1 2 3 4 5 0
+200,50,n_5_m_15,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+201,50,n_5_m_16,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+202,50,n_5_m_17,0.0001,"[True,False,True,False,True]", SATISFIABLE,v 1 -2 -3 -4 5 0
+203,50,n_5_m_18,0.0001,"[True,True,True,True,False]", SATISFIABLE,v 1 2 3 4 -5 0
+204,50,n_5_m_19,0.0173,0, UNSATISFIABLE,0
+205,50,n_5_m_20,0.0177,0, SATISFIABLE,v -1 2 3 4 5 0
+206,50,n_5_m_21,0.0174,0, SATISFIABLE,v -1 2 -3 -4 5 0
+207,50,n_5_m_22,0.0179,0, UNSATISFIABLE,0
+208,50,n_5_m_23,0.0001,"[True,False,True,False,False]", SATISFIABLE,v 1 -2 3 -4 -5 0
+209,50,n_5_m_24,0.017,0, UNSATISFIABLE,0
+210,50,n_5_m_10,0.018,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+211,50,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+212,50,n_5_m_12,0.0174,0, SATISFIABLE,v -1 2 3 4 -5 0
+213,50,n_5_m_13,0.0177,"[False,True,True,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+214,50,n_5_m_14,0.0001,"[True,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+215,50,n_5_m_15,0.018,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+216,50,n_5_m_16,0.0197,0, SATISFIABLE,v -1 2 -3 4 -5 0
+217,50,n_5_m_17,0.0171,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+218,50,n_5_m_18,0.0172,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+219,50,n_5_m_19,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+220,50,n_5_m_20,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+221,50,n_5_m_21,0.0184,0, SATISFIABLE,v -1 2 3 -4 -5 0
+222,50,n_5_m_22,0.0174,0, SATISFIABLE,v -1 -2 3 4 -5 0
+223,50,n_5_m_23,0.0176,0, SATISFIABLE,v -1 2 -3 4 5 0
+224,50,n_5_m_24,0.0185,0, UNSATISFIABLE,0
+225,50,n_5_m_10,0.0192,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+226,50,n_5_m_11,0.0001,"[False,True,False,False,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+227,50,n_5_m_12,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+228,50,n_5_m_13,0.0177,0, SATISFIABLE,v -1 2 3 -4 -5 0
+229,50,n_5_m_14,0.0177,"[True,True,True,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+230,50,n_5_m_15,0.0002,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+231,50,n_5_m_16,0.0194,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+232,50,n_5_m_17,0.0001,"[False,False,True,False,True]", SATISFIABLE,v -1 -2 3 -4 5 0
+233,50,n_5_m_18,0.0178,0, SATISFIABLE,v -1 -2 3 4 5 0
+234,50,n_5_m_19,0.0174,0, SATISFIABLE,v -1 2 3 4 5 0
+235,50,n_5_m_20,0.0211,0, SATISFIABLE,v -1 2 3 4 5 0
+236,50,n_5_m_21,0.0188,0, UNSATISFIABLE,0
+237,50,n_5_m_22,0.0178,0, UNSATISFIABLE,0
+238,50,n_5_m_23,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 4 -5 0
+239,50,n_5_m_24,0.0199,0, SATISFIABLE,v -1 -2 3 4 -5 0
+240,50,n_5_m_10,0.019,"[False,True,True,True,True]", SATISFIABLE,v -1 -2 3 -4 -5 0
+241,50,n_5_m_11,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 3 4 5 0
+242,50,n_5_m_12,0.0175,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+243,50,n_5_m_13,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+244,50,n_5_m_14,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+245,50,n_5_m_15,0.0181,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+246,50,n_5_m_16,0.0196,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+247,50,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+248,50,n_5_m_18,0.0177,0, SATISFIABLE,v -1 2 -3 4 -5 0
+249,50,n_5_m_19,0.0243,0, SATISFIABLE,v 1 2 3 -4 -5 0
+250,50,n_5_m_20,0.018,0, SATISFIABLE,v 1 -2 -3 -4 5 0
+251,50,n_5_m_21,0.0178,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+252,50,n_5_m_22,0.017,0, UNSATISFIABLE,0
+253,50,n_5_m_23,0.0179,0, SATISFIABLE,v 1 2 -3 4 -5 0
+254,50,n_5_m_24,0.0175,0, UNSATISFIABLE,0
+255,50,n_5_m_10,0.0169,0, SATISFIABLE,v -1 2 -3 4 5 0
+256,50,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+257,50,n_5_m_12,0.0187,"[True,True,True,True,True]", SATISFIABLE,v -1 -2 3 4 5 0
+258,50,n_5_m_13,0.0001,"[True,True,True,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+259,50,n_5_m_14,0.0173,0, UNSATISFIABLE,0
+260,50,n_5_m_15,0.0168,"[True,False,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+261,50,n_5_m_16,0.0176,0, SATISFIABLE,v -1 2 -3 4 -5 0
+262,50,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+263,50,n_5_m_18,0.0001,"[False,False,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+264,50,n_5_m_19,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+265,50,n_5_m_20,0.0189,0, SATISFIABLE,v 1 -2 -3 4 5 0
+266,50,n_5_m_21,0.0187,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+267,50,n_5_m_22,0.0189,0, UNSATISFIABLE,0
+268,50,n_5_m_23,0.0182,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+269,50,n_5_m_24,0.0184,0, UNSATISFIABLE,0
+270,50,n_5_m_10,0.0193,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+271,50,n_5_m_11,0.0194,0, SATISFIABLE,v -1 -2 3 4 -5 0
+272,50,n_5_m_12,0.0179,0, SATISFIABLE,v -1 2 3 -4 -5 0
+273,50,n_5_m_13,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+274,50,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+275,50,n_5_m_15,0.018,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+276,50,n_5_m_16,0.0187,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+277,50,n_5_m_17,0.018,0, SATISFIABLE,v 1 -2 3 4 5 0
+278,50,n_5_m_18,0.0177,0, SATISFIABLE,v -1 2 3 -4 -5 0
+279,50,n_5_m_19,0.0001,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+280,50,n_5_m_20,0.0001,"[True,True,False,False,False]", SATISFIABLE,v 1 2 -3 -4 -5 0
+281,50,n_5_m_21,0.0177,0, SATISFIABLE,v 1 -2 -3 -4 -5 0
+282,50,n_5_m_22,0.0172,0, UNSATISFIABLE,0
+283,50,n_5_m_23,0.0215,0, UNSATISFIABLE,0
+284,50,n_5_m_24,0.0185,0, SATISFIABLE,v -1 2 -3 4 5 0
+285,50,n_5_m_10,0.0183,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 4 -5 0
+286,50,n_5_m_11,0.0001,"[True,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 -5 0
+287,50,n_5_m_12,0.0185,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+288,50,n_5_m_13,0.0179,0, SATISFIABLE,v -1 2 -3 4 5 0
+289,50,n_5_m_14,0.0184,0, SATISFIABLE,v -1 -2 3 4 -5 0
+290,50,n_5_m_15,0.0176,0, SATISFIABLE,v -1 2 -3 4 -5 0
+291,50,n_5_m_16,0.0189,0, SATISFIABLE,v -1 -2 3 4 -5 0
+292,50,n_5_m_17,0.0189,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+293,50,n_5_m_18,0.018,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+294,50,n_5_m_19,0.0182,0, SATISFIABLE,v 1 2 -3 4 5 0
+295,50,n_5_m_20,0.0172,0, UNSATISFIABLE,0
+296,50,n_5_m_21,0.0178,0, SATISFIABLE,v -1 2 -3 4 -5 0
+297,50,n_5_m_22,0.0181,0, SATISFIABLE,v 1 -2 3 -4 5 0
+298,50,n_5_m_23,0.0182,0, UNSATISFIABLE,0
+299,50,n_5_m_24,0.0178,0, UNSATISFIABLE,0
+300,100,n_5_m_10,0.0002,"[False,True,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+301,100,n_5_m_11,0.0199,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+302,100,n_5_m_12,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+303,100,n_5_m_13,0.0001,"[True,True,False,True,True]", SATISFIABLE,v 1 -2 -3 4 -5 0
+304,100,n_5_m_14,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+305,100,n_5_m_15,0.0001,"[True,True,False,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+306,100,n_5_m_16,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+307,100,n_5_m_17,0.0183,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+308,100,n_5_m_18,0.0178,0, SATISFIABLE,v 1 2 -3 -4 5 0
+309,100,n_5_m_19,0.0185,0, UNSATISFIABLE,0
+310,100,n_5_m_20,0.0182,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+311,100,n_5_m_21,0.0001,"[True,False,True,False,True]", SATISFIABLE,v -1 2 3 4 5 0
+312,100,n_5_m_22,0.0183,0, SATISFIABLE,v 1 -2 3 -4 5 0
+313,100,n_5_m_23,0.0173,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+314,100,n_5_m_24,0.0174,0, SATISFIABLE,v 1 2 -3 -4 -5 0
+315,100,n_5_m_10,0.0001,"[False,False,True,True,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+316,100,n_5_m_11,0.0001,"[False,False,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+317,100,n_5_m_12,0.0001,"[False,False,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+318,100,n_5_m_13,0.0178,0, SATISFIABLE,v -1 2 -3 4 -5 0
+319,100,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+320,100,n_5_m_15,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+321,100,n_5_m_16,0.0175,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+322,100,n_5_m_17,0.0194,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+323,100,n_5_m_18,0.0174,0, SATISFIABLE,v -1 2 3 4 -5 0
+324,100,n_5_m_19,0.017,"[False,True,True,False,True]", SATISFIABLE,v -1 -2 -3 4 -5 0
+325,100,n_5_m_20,0.0173,0, UNSATISFIABLE,0
+326,100,n_5_m_21,0.018,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+327,100,n_5_m_22,0.0175,0, UNSATISFIABLE,0
+328,100,n_5_m_23,0.0171,0, UNSATISFIABLE,0
+329,100,n_5_m_24,0.0195,0, UNSATISFIABLE,0
+330,100,n_5_m_10,0.0189,0, SATISFIABLE,v -1 2 -3 4 -5 0
+331,100,n_5_m_11,0.0174,"[True,False,False,False,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+332,100,n_5_m_12,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+333,100,n_5_m_13,0.0169,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+334,100,n_5_m_14,0.0172,0, SATISFIABLE,v 1 -2 3 -4 -5 0
+335,100,n_5_m_15,0.0171,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+336,100,n_5_m_16,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+337,100,n_5_m_17,0.0186,0, SATISFIABLE,v -1 2 3 -4 5 0
+338,100,n_5_m_18,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+339,100,n_5_m_19,0.018,0, SATISFIABLE,v -1 2 3 4 -5 0
+340,100,n_5_m_20,0.0207,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+341,100,n_5_m_21,0.0204,0, UNSATISFIABLE,0
+342,100,n_5_m_22,0.0174,0, UNSATISFIABLE,0
+343,100,n_5_m_23,0.0194,0, UNSATISFIABLE,0
+344,100,n_5_m_24,0.0175,0, SATISFIABLE,v -1 2 3 -4 -5 0
+345,100,n_5_m_10,0.0173,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+346,100,n_5_m_11,0.017,"[True,True,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+347,100,n_5_m_12,0.0171,0, SATISFIABLE,v -1 2 -3 4 -5 0
+348,100,n_5_m_13,0.0179,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+349,100,n_5_m_14,0.0166,0, SATISFIABLE,v -1 2 3 4 5 0
+350,100,n_5_m_15,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+351,100,n_5_m_16,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+352,100,n_5_m_17,0.0001,"[True,False,False,False,True]", SATISFIABLE,v 1 -2 -3 -4 5 0
+353,100,n_5_m_18,0.0001,"[True,True,True,True,False]", SATISFIABLE,v 1 2 3 4 -5 0
+354,100,n_5_m_19,0.0173,0, UNSATISFIABLE,0
+355,100,n_5_m_20,0.017,0, SATISFIABLE,v -1 2 3 4 5 0
+356,100,n_5_m_21,0.0172,0, SATISFIABLE,v -1 2 -3 -4 5 0
+357,100,n_5_m_22,0.0171,0, UNSATISFIABLE,0
+358,100,n_5_m_23,0.0001,"[True,False,True,False,False]", SATISFIABLE,v 1 -2 3 -4 -5 0
+359,100,n_5_m_24,0.0172,0, UNSATISFIABLE,0
+360,100,n_5_m_10,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+361,100,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+362,100,n_5_m_12,0.0172,0, SATISFIABLE,v -1 2 3 4 -5 0
+363,100,n_5_m_13,0.0171,"[False,True,True,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+364,100,n_5_m_14,0.0001,"[True,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+365,100,n_5_m_15,0.0171,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+366,100,n_5_m_16,0.0195,0, SATISFIABLE,v -1 2 -3 4 -5 0
+367,100,n_5_m_17,0.017,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+368,100,n_5_m_18,0.0184,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+369,100,n_5_m_19,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+370,100,n_5_m_20,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+371,100,n_5_m_21,0.0188,0, SATISFIABLE,v -1 2 3 -4 -5 0
+372,100,n_5_m_22,0.0177,0, SATISFIABLE,v -1 -2 3 4 -5 0
+373,100,n_5_m_23,0.0172,0, SATISFIABLE,v -1 2 -3 4 5 0
+374,100,n_5_m_24,0.0194,0, UNSATISFIABLE,0
+375,100,n_5_m_10,0.019,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+376,100,n_5_m_11,0.0001,"[False,True,False,False,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+377,100,n_5_m_12,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+378,100,n_5_m_13,0.0172,0, SATISFIABLE,v -1 2 3 -4 -5 0
+379,100,n_5_m_14,0.0172,"[True,True,True,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+380,100,n_5_m_15,0.0001,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+381,100,n_5_m_16,0.0181,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+382,100,n_5_m_17,0.0001,"[False,False,True,False,True]", SATISFIABLE,v -1 -2 3 -4 5 0
+383,100,n_5_m_18,0.0185,0, SATISFIABLE,v -1 -2 3 4 5 0
+384,100,n_5_m_19,0.0173,0, SATISFIABLE,v -1 2 3 4 5 0
+385,100,n_5_m_20,0.0183,0, SATISFIABLE,v -1 2 3 4 5 0
+386,100,n_5_m_21,0.0175,0, UNSATISFIABLE,0
+387,100,n_5_m_22,0.0188,0, UNSATISFIABLE,0
+388,100,n_5_m_23,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 4 -5 0
+389,100,n_5_m_24,0.0208,0, SATISFIABLE,v -1 -2 3 4 -5 0
+390,100,n_5_m_10,0.0179,"[False,True,True,True,True]", SATISFIABLE,v -1 -2 3 -4 -5 0
+391,100,n_5_m_11,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 3 4 5 0
+392,100,n_5_m_12,0.0172,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+393,100,n_5_m_13,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+394,100,n_5_m_14,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+395,100,n_5_m_15,0.0174,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+396,100,n_5_m_16,0.019,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+397,100,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+398,100,n_5_m_18,0.0177,0, SATISFIABLE,v -1 2 -3 4 -5 0
+399,100,n_5_m_19,0.0176,0, SATISFIABLE,v 1 2 3 -4 -5 0
+400,100,n_5_m_20,0.017,0, SATISFIABLE,v 1 -2 -3 -4 5 0
+401,100,n_5_m_21,0.0182,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+402,100,n_5_m_22,0.0172,0, UNSATISFIABLE,0
+403,100,n_5_m_23,0.018,0, SATISFIABLE,v 1 2 -3 4 -5 0
+404,100,n_5_m_24,0.0175,0, UNSATISFIABLE,0
+405,100,n_5_m_10,0.017,0, SATISFIABLE,v -1 2 -3 4 5 0
+406,100,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+407,100,n_5_m_12,0.0188,"[True,True,True,True,True]", SATISFIABLE,v -1 -2 3 4 5 0
+408,100,n_5_m_13,0.0001,"[True,True,True,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+409,100,n_5_m_14,0.0174,0, UNSATISFIABLE,0
+410,100,n_5_m_15,0.017,"[True,False,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+411,100,n_5_m_16,0.0182,0, SATISFIABLE,v -1 2 -3 4 -5 0
+412,100,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+413,100,n_5_m_18,0.0001,"[False,False,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+414,100,n_5_m_19,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+415,100,n_5_m_20,0.02,0, SATISFIABLE,v 1 -2 -3 4 5 0
+416,100,n_5_m_21,0.0193,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+417,100,n_5_m_22,0.0175,0, UNSATISFIABLE,0
+418,100,n_5_m_23,0.0176,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+419,100,n_5_m_24,0.0185,0, UNSATISFIABLE,0
+420,100,n_5_m_10,0.0183,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+421,100,n_5_m_11,0.0241,0, SATISFIABLE,v -1 -2 3 4 -5 0
+422,100,n_5_m_12,0.0184,0, SATISFIABLE,v -1 2 3 -4 -5 0
+423,100,n_5_m_13,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+424,100,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+425,100,n_5_m_15,0.018,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+426,100,n_5_m_16,0.0175,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+427,100,n_5_m_17,0.0171,0, SATISFIABLE,v 1 -2 3 4 5 0
+428,100,n_5_m_18,0.0175,0, SATISFIABLE,v -1 2 3 -4 -5 0
+429,100,n_5_m_19,0.0001,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+430,100,n_5_m_20,0.0001,"[True,True,False,False,False]", SATISFIABLE,v 1 2 -3 -4 -5 0
+431,100,n_5_m_21,0.0173,0, SATISFIABLE,v 1 -2 -3 -4 -5 0
+432,100,n_5_m_22,0.017,0, UNSATISFIABLE,0
+433,100,n_5_m_23,0.0186,0, UNSATISFIABLE,0
+434,100,n_5_m_24,0.0174,0, SATISFIABLE,v -1 2 -3 4 5 0
+435,100,n_5_m_10,0.018,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 4 -5 0
+436,100,n_5_m_11,0.0001,"[True,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 -5 0
+437,100,n_5_m_12,0.0168,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+438,100,n_5_m_13,0.0174,0, SATISFIABLE,v -1 2 -3 4 5 0
+439,100,n_5_m_14,0.0177,0, SATISFIABLE,v -1 -2 3 4 -5 0
+440,100,n_5_m_15,0.0175,0, SATISFIABLE,v -1 2 -3 4 -5 0
+441,100,n_5_m_16,0.0202,0, SATISFIABLE,v -1 -2 3 4 -5 0
+442,100,n_5_m_17,0.0175,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+443,100,n_5_m_18,0.0165,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+444,100,n_5_m_19,0.0175,0, SATISFIABLE,v 1 2 -3 4 5 0
+445,100,n_5_m_20,0.0183,0, UNSATISFIABLE,0
+446,100,n_5_m_21,0.0187,0, SATISFIABLE,v -1 2 -3 4 -5 0
+447,100,n_5_m_22,0.0182,0, SATISFIABLE,v 1 -2 3 -4 5 0
+448,100,n_5_m_23,0.0182,0, UNSATISFIABLE,0
+449,100,n_5_m_24,0.0183,0, UNSATISFIABLE,0
+450,200,n_5_m_10,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+451,200,n_5_m_11,0.0191,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+452,200,n_5_m_12,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+453,200,n_5_m_13,0.0001,"[True,True,False,True,True]", SATISFIABLE,v 1 -2 -3 4 -5 0
+454,200,n_5_m_14,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+455,200,n_5_m_15,0.0001,"[True,True,False,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+456,200,n_5_m_16,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+457,200,n_5_m_17,0.0175,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+458,200,n_5_m_18,0.0171,0, SATISFIABLE,v 1 2 -3 -4 5 0
+459,200,n_5_m_19,0.0173,0, UNSATISFIABLE,0
+460,200,n_5_m_20,0.018,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+461,200,n_5_m_21,0.0001,"[True,False,True,False,True]", SATISFIABLE,v -1 2 3 4 5 0
+462,200,n_5_m_22,0.0179,0, SATISFIABLE,v 1 -2 3 -4 5 0
+463,200,n_5_m_23,0.018,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+464,200,n_5_m_24,0.017,0, SATISFIABLE,v 1 2 -3 -4 -5 0
+465,200,n_5_m_10,0.0001,"[False,False,True,True,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+466,200,n_5_m_11,0.0001,"[False,False,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+467,200,n_5_m_12,0.0001,"[False,False,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+468,200,n_5_m_13,0.0172,0, SATISFIABLE,v -1 2 -3 4 -5 0
+469,200,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+470,200,n_5_m_15,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+471,200,n_5_m_16,0.0175,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+472,200,n_5_m_17,0.0189,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+473,200,n_5_m_18,0.017,0, SATISFIABLE,v -1 2 3 4 -5 0
+474,200,n_5_m_19,0.017,"[False,True,True,False,True]", SATISFIABLE,v -1 -2 -3 4 -5 0
+475,200,n_5_m_20,0.0171,0, UNSATISFIABLE,0
+476,200,n_5_m_21,0.0179,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+477,200,n_5_m_22,0.0191,0, UNSATISFIABLE,0
+478,200,n_5_m_23,0.0175,0, UNSATISFIABLE,0
+479,200,n_5_m_24,0.0192,0, UNSATISFIABLE,0
+480,200,n_5_m_10,0.0185,0, SATISFIABLE,v -1 2 -3 4 -5 0
+481,200,n_5_m_11,0.0177,"[True,False,False,False,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+482,200,n_5_m_12,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+483,200,n_5_m_13,0.0169,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+484,200,n_5_m_14,0.0168,0, SATISFIABLE,v 1 -2 3 -4 -5 0
+485,200,n_5_m_15,0.017,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+486,200,n_5_m_16,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+487,200,n_5_m_17,0.0187,0, SATISFIABLE,v -1 2 3 -4 5 0
+488,200,n_5_m_18,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+489,200,n_5_m_19,0.0179,0, SATISFIABLE,v -1 2 3 4 -5 0
+490,200,n_5_m_20,0.0169,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+491,200,n_5_m_21,0.0178,0, UNSATISFIABLE,0
+492,200,n_5_m_22,0.0169,0, UNSATISFIABLE,0
+493,200,n_5_m_23,0.0194,0, UNSATISFIABLE,0
+494,200,n_5_m_24,0.024,0, SATISFIABLE,v -1 2 3 -4 -5 0
+495,200,n_5_m_10,0.0168,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+496,200,n_5_m_11,0.0169,"[True,True,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+497,200,n_5_m_12,0.0172,0, SATISFIABLE,v -1 2 -3 4 -5 0
+498,200,n_5_m_13,0.0175,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+499,200,n_5_m_14,0.0166,0, SATISFIABLE,v -1 2 3 4 5 0
+500,200,n_5_m_15,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+501,200,n_5_m_16,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+502,200,n_5_m_17,0.0001,"[True,False,False,False,True]", SATISFIABLE,v 1 -2 -3 -4 5 0
+503,200,n_5_m_18,0.0001,"[True,True,True,True,False]", SATISFIABLE,v 1 2 3 4 -5 0
+504,200,n_5_m_19,0.0172,0, UNSATISFIABLE,0
+505,200,n_5_m_20,0.0168,0, SATISFIABLE,v -1 2 3 4 5 0
+506,200,n_5_m_21,0.0172,0, SATISFIABLE,v -1 2 -3 -4 5 0
+507,200,n_5_m_22,0.0172,0, UNSATISFIABLE,0
+508,200,n_5_m_23,0.0001,"[True,False,True,False,False]", SATISFIABLE,v 1 -2 3 -4 -5 0
+509,200,n_5_m_24,0.017,0, UNSATISFIABLE,0
+510,200,n_5_m_10,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+511,200,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+512,200,n_5_m_12,0.017,0, SATISFIABLE,v -1 2 3 4 -5 0
+513,200,n_5_m_13,0.0173,"[False,True,True,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+514,200,n_5_m_14,0.0001,"[True,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+515,200,n_5_m_15,0.0168,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+516,200,n_5_m_16,0.0192,0, SATISFIABLE,v -1 2 -3 4 -5 0
+517,200,n_5_m_17,0.0168,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+518,200,n_5_m_18,0.017,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+519,200,n_5_m_19,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+520,200,n_5_m_20,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+521,200,n_5_m_21,0.0183,0, SATISFIABLE,v -1 2 3 -4 -5 0
+522,200,n_5_m_22,0.0176,0, SATISFIABLE,v -1 -2 3 4 -5 0
+523,200,n_5_m_23,0.0174,0, SATISFIABLE,v -1 2 -3 4 5 0
+524,200,n_5_m_24,0.0183,0, UNSATISFIABLE,0
+525,200,n_5_m_10,0.0188,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+526,200,n_5_m_11,0.0001,"[False,True,False,False,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+527,200,n_5_m_12,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+528,200,n_5_m_13,0.0168,0, SATISFIABLE,v -1 2 3 -4 -5 0
+529,200,n_5_m_14,0.0172,"[True,True,True,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+530,200,n_5_m_15,0.0001,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+531,200,n_5_m_16,0.0179,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+532,200,n_5_m_17,0.0001,"[False,False,True,False,True]", SATISFIABLE,v -1 -2 3 -4 5 0
+533,200,n_5_m_18,0.0188,0, SATISFIABLE,v -1 -2 3 4 5 0
+534,200,n_5_m_19,0.0169,0, SATISFIABLE,v -1 2 3 4 5 0
+535,200,n_5_m_20,0.0185,0, SATISFIABLE,v -1 2 3 4 5 0
+536,200,n_5_m_21,0.0177,0, UNSATISFIABLE,0
+537,200,n_5_m_22,0.0174,0, UNSATISFIABLE,0
+538,200,n_5_m_23,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 4 -5 0
+539,200,n_5_m_24,0.0195,0, SATISFIABLE,v -1 -2 3 4 -5 0
+540,200,n_5_m_10,0.0185,"[False,True,True,True,True]", SATISFIABLE,v -1 -2 3 -4 -5 0
+541,200,n_5_m_11,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 3 4 5 0
+542,200,n_5_m_12,0.0175,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+543,200,n_5_m_13,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+544,200,n_5_m_14,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+545,200,n_5_m_15,0.0175,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+546,200,n_5_m_16,0.0192,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+547,200,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+548,200,n_5_m_18,0.017,0, SATISFIABLE,v -1 2 -3 4 -5 0
+549,200,n_5_m_19,0.0178,0, SATISFIABLE,v 1 2 3 -4 -5 0
+550,200,n_5_m_20,0.0172,0, SATISFIABLE,v 1 -2 -3 -4 5 0
+551,200,n_5_m_21,0.018,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+552,200,n_5_m_22,0.017,0, UNSATISFIABLE,0
+553,200,n_5_m_23,0.0186,0, SATISFIABLE,v 1 2 -3 4 -5 0
+554,200,n_5_m_24,0.0176,0, UNSATISFIABLE,0
+555,200,n_5_m_10,0.0172,0, SATISFIABLE,v -1 2 -3 4 5 0
+556,200,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+557,200,n_5_m_12,0.0186,"[True,True,True,True,True]", SATISFIABLE,v -1 -2 3 4 5 0
+558,200,n_5_m_13,0.0001,"[True,True,True,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+559,200,n_5_m_14,0.017,0, UNSATISFIABLE,0
+560,200,n_5_m_15,0.0171,"[True,False,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+561,200,n_5_m_16,0.0177,0, SATISFIABLE,v -1 2 -3 4 -5 0
+562,200,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+563,200,n_5_m_18,0.0001,"[False,False,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+564,200,n_5_m_19,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+565,200,n_5_m_20,0.0185,0, SATISFIABLE,v 1 -2 -3 4 5 0
+566,200,n_5_m_21,0.0177,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+567,200,n_5_m_22,0.0174,0, UNSATISFIABLE,0
+568,200,n_5_m_23,0.017,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+569,200,n_5_m_24,0.018,0, UNSATISFIABLE,0
+570,200,n_5_m_10,0.0181,"[False,False,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+571,200,n_5_m_11,0.0175,0, SATISFIABLE,v -1 -2 3 4 -5 0
+572,200,n_5_m_12,0.0176,0, SATISFIABLE,v -1 2 3 -4 -5 0
+573,200,n_5_m_13,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+574,200,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+575,200,n_5_m_15,0.0178,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+576,200,n_5_m_16,0.0177,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+577,200,n_5_m_17,0.0236,0, SATISFIABLE,v 1 -2 3 4 5 0
+578,200,n_5_m_18,0.0177,0, SATISFIABLE,v -1 2 3 -4 -5 0
+579,200,n_5_m_19,0.0001,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+580,200,n_5_m_20,0.0001,"[True,True,False,False,False]", SATISFIABLE,v 1 2 -3 -4 -5 0
+581,200,n_5_m_21,0.0174,0, SATISFIABLE,v 1 -2 -3 -4 -5 0
+582,200,n_5_m_22,0.0171,0, UNSATISFIABLE,0
+583,200,n_5_m_23,0.0188,0, UNSATISFIABLE,0
+584,200,n_5_m_24,0.0176,0, SATISFIABLE,v -1 2 -3 4 5 0
+585,200,n_5_m_10,0.0175,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 4 -5 0
+586,200,n_5_m_11,0.0001,"[True,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 -5 0
+587,200,n_5_m_12,0.0174,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+588,200,n_5_m_13,0.0174,0, SATISFIABLE,v -1 2 -3 4 5 0
+589,200,n_5_m_14,0.0178,0, SATISFIABLE,v -1 -2 3 4 -5 0
+590,200,n_5_m_15,0.0172,0, SATISFIABLE,v -1 2 -3 4 -5 0
+591,200,n_5_m_16,0.0206,0, SATISFIABLE,v -1 -2 3 4 -5 0
+592,200,n_5_m_17,0.0176,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+593,200,n_5_m_18,0.0171,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+594,200,n_5_m_19,0.0174,0, SATISFIABLE,v 1 2 -3 4 5 0
+595,200,n_5_m_20,0.017,0, UNSATISFIABLE,0
+596,200,n_5_m_21,0.0177,0, SATISFIABLE,v -1 2 -3 4 -5 0
+597,200,n_5_m_22,0.0181,0, SATISFIABLE,v 1 -2 3 -4 5 0
+598,200,n_5_m_23,0.0178,0, UNSATISFIABLE,0
+599,200,n_5_m_24,0.0176,0, UNSATISFIABLE,0
+600,512,n_5_m_10,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+601,512,n_5_m_11,0.0295,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+602,512,n_5_m_12,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+603,512,n_5_m_13,0.0001,"[True,True,False,True,True]", SATISFIABLE,v 1 -2 -3 4 -5 0
+604,512,n_5_m_14,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+605,512,n_5_m_15,0.0001,"[True,True,False,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+606,512,n_5_m_16,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+607,512,n_5_m_17,0.0174,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+608,512,n_5_m_18,0.0174,0, SATISFIABLE,v 1 2 -3 -4 5 0
+609,512,n_5_m_19,0.0166,0, UNSATISFIABLE,0
+610,512,n_5_m_20,0.0182,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+611,512,n_5_m_21,0.0001,"[True,False,True,False,True]", SATISFIABLE,v -1 2 3 4 5 0
+612,512,n_5_m_22,0.0181,0, SATISFIABLE,v 1 -2 3 -4 5 0
+613,512,n_5_m_23,0.0188,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 4 -5 0
+614,512,n_5_m_24,0.0177,0, SATISFIABLE,v 1 2 -3 -4 -5 0
+615,512,n_5_m_10,0.0001,"[False,False,True,True,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+616,512,n_5_m_11,0.0001,"[False,False,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+617,512,n_5_m_12,0.0001,"[False,False,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+618,512,n_5_m_13,0.0179,0, SATISFIABLE,v -1 2 -3 4 -5 0
+619,512,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+620,512,n_5_m_15,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+621,512,n_5_m_16,0.0172,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+622,512,n_5_m_17,0.019,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+623,512,n_5_m_18,0.0173,0, SATISFIABLE,v -1 2 3 4 -5 0
+624,512,n_5_m_19,0.017,"[False,True,True,False,True]", SATISFIABLE,v -1 -2 -3 4 -5 0
+625,512,n_5_m_20,0.0171,0, UNSATISFIABLE,0
+626,512,n_5_m_21,0.0184,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+627,512,n_5_m_22,0.0232,0, UNSATISFIABLE,0
+628,512,n_5_m_23,0.017,0, UNSATISFIABLE,0
+629,512,n_5_m_24,0.0192,0, UNSATISFIABLE,0
+630,512,n_5_m_10,0.0182,0, SATISFIABLE,v -1 2 -3 4 -5 0
+631,512,n_5_m_11,0.0171,"[True,False,False,False,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+632,512,n_5_m_12,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+633,512,n_5_m_13,0.0178,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+634,512,n_5_m_14,0.0177,0, SATISFIABLE,v 1 -2 3 -4 -5 0
+635,512,n_5_m_15,0.0174,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+636,512,n_5_m_16,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+637,512,n_5_m_17,0.0184,0, SATISFIABLE,v -1 2 3 -4 5 0
+638,512,n_5_m_18,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+639,512,n_5_m_19,0.0179,0, SATISFIABLE,v -1 2 3 4 -5 0
+640,512,n_5_m_20,0.0172,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+641,512,n_5_m_21,0.0182,0, UNSATISFIABLE,0
+642,512,n_5_m_22,0.0174,0, UNSATISFIABLE,0
+643,512,n_5_m_23,0.0195,0, UNSATISFIABLE,0
+644,512,n_5_m_24,0.0175,0, SATISFIABLE,v -1 2 3 -4 -5 0
+645,512,n_5_m_10,0.0171,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 -5 0
+646,512,n_5_m_11,0.0169,"[True,True,False,False,True]", SATISFIABLE,v -1 -2 -3 -4 5 0
+647,512,n_5_m_12,0.0171,0, SATISFIABLE,v -1 2 -3 4 -5 0
+648,512,n_5_m_13,0.0175,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+649,512,n_5_m_14,0.0166,0, SATISFIABLE,v -1 2 3 4 5 0
+650,512,n_5_m_15,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+651,512,n_5_m_16,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+652,512,n_5_m_17,0.0001,"[True,False,False,False,True]", SATISFIABLE,v 1 -2 -3 -4 5 0
+653,512,n_5_m_18,0.0001,"[True,True,True,True,False]", SATISFIABLE,v 1 2 3 4 -5 0
+654,512,n_5_m_19,0.0175,0, UNSATISFIABLE,0
+655,512,n_5_m_20,0.0173,0, SATISFIABLE,v -1 2 3 4 5 0
+656,512,n_5_m_21,0.0172,0, SATISFIABLE,v -1 2 -3 -4 5 0
+657,512,n_5_m_22,0.0172,0, UNSATISFIABLE,0
+658,512,n_5_m_23,0.0001,"[True,False,True,False,False]", SATISFIABLE,v 1 -2 3 -4 -5 0
+659,512,n_5_m_24,0.0173,0, UNSATISFIABLE,0
+660,512,n_5_m_10,0.0001,"[True,True,True,True,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+661,512,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+662,512,n_5_m_12,0.0172,0, SATISFIABLE,v -1 2 3 4 -5 0
+663,512,n_5_m_13,0.017,"[False,True,True,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+664,512,n_5_m_14,0.0001,"[True,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+665,512,n_5_m_15,0.0168,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+666,512,n_5_m_16,0.0196,0, SATISFIABLE,v -1 2 -3 4 -5 0
+667,512,n_5_m_17,0.0173,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+668,512,n_5_m_18,0.0179,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+669,512,n_5_m_19,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+670,512,n_5_m_20,0.0001,"[True,True,False,True,True]", SATISFIABLE,v -1 2 -3 4 -5 0
+671,512,n_5_m_21,0.0185,0, SATISFIABLE,v -1 2 3 -4 -5 0
+672,512,n_5_m_22,0.019,0, SATISFIABLE,v -1 -2 3 4 -5 0
+673,512,n_5_m_23,0.0183,0, SATISFIABLE,v -1 2 -3 4 5 0
+674,512,n_5_m_24,0.0197,0, UNSATISFIABLE,0
+675,512,n_5_m_10,0.0201,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+676,512,n_5_m_11,0.0001,"[False,True,False,False,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+677,512,n_5_m_12,0.0001,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 3 -4 -5 0
+678,512,n_5_m_13,0.0176,0, SATISFIABLE,v -1 2 3 -4 -5 0
+679,512,n_5_m_14,0.0181,"[True,True,True,True,True]", SATISFIABLE,v -1 2 -3 -4 5 0
+680,512,n_5_m_15,0.0001,"[False,True,False,True,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+681,512,n_5_m_16,0.0199,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+682,512,n_5_m_17,0.0001,"[False,False,True,False,True]", SATISFIABLE,v -1 -2 3 -4 5 0
+683,512,n_5_m_18,0.0184,0, SATISFIABLE,v -1 -2 3 4 5 0
+684,512,n_5_m_19,0.0186,0, SATISFIABLE,v -1 2 3 4 5 0
+685,512,n_5_m_20,0.0189,0, SATISFIABLE,v -1 2 3 4 5 0
+686,512,n_5_m_21,0.0187,0, UNSATISFIABLE,0
+687,512,n_5_m_22,0.0181,0, UNSATISFIABLE,0
+688,512,n_5_m_23,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 4 -5 0
+689,512,n_5_m_24,0.0213,0, SATISFIABLE,v -1 -2 3 4 -5 0
+690,512,n_5_m_10,0.0189,"[False,True,True,True,True]", SATISFIABLE,v -1 -2 3 -4 -5 0
+691,512,n_5_m_11,0.0001,"[False,True,False,True,True]", SATISFIABLE,v -1 2 3 4 5 0
+692,512,n_5_m_12,0.019,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+693,512,n_5_m_13,0.0001,"[False,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 5 0
+694,512,n_5_m_14,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+695,512,n_5_m_15,0.0189,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+696,512,n_5_m_16,0.0204,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+697,512,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+698,512,n_5_m_18,0.0183,0, SATISFIABLE,v -1 2 -3 4 -5 0
+699,512,n_5_m_19,0.0191,0, SATISFIABLE,v 1 2 3 -4 -5 0
+700,512,n_5_m_20,0.018,0, SATISFIABLE,v 1 -2 -3 -4 5 0
+701,512,n_5_m_21,0.0189,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+702,512,n_5_m_22,0.0182,0, UNSATISFIABLE,0
+703,512,n_5_m_23,0.0183,0, SATISFIABLE,v 1 2 -3 4 -5 0
+704,512,n_5_m_24,0.0225,0, UNSATISFIABLE,0
+705,512,n_5_m_10,0.02,0, SATISFIABLE,v -1 2 -3 4 5 0
+706,512,n_5_m_11,0.0001,"[False,True,False,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+707,512,n_5_m_12,0.0193,"[True,True,True,True,True]", SATISFIABLE,v -1 -2 3 4 5 0
+708,512,n_5_m_13,0.0001,"[True,True,True,False,False]", SATISFIABLE,v -1 2 -3 -4 -5 0
+709,512,n_5_m_14,0.0181,0, UNSATISFIABLE,0
+710,512,n_5_m_15,0.0179,"[True,False,False,True,True]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+711,512,n_5_m_16,0.0198,0, SATISFIABLE,v -1 2 -3 4 -5 0
+712,512,n_5_m_17,0.0001,"[False,True,True,False,False]", SATISFIABLE,v -1 2 3 -4 -5 0
+713,512,n_5_m_18,0.0001,"[False,False,False,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+714,512,n_5_m_19,0.0001,"[False,False,False,True,False]", SATISFIABLE,v -1 2 3 4 -5 0
+715,512,n_5_m_20,0.0209,0, SATISFIABLE,v 1 -2 -3 4 5 0
+716,512,n_5_m_21,0.0189,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+717,512,n_5_m_22,0.0195,0, UNSATISFIABLE,0
+718,512,n_5_m_23,0.0192,0, SATISFIABLE,v -1 -2 -3 -4 5 0
+719,512,n_5_m_24,0.0196,0, UNSATISFIABLE,0
+720,512,n_5_m_10,0.0207,"[False,False,True,False,False]", SATISFIABLE,v -1 -2 -3 -4 -5 0
+721,512,n_5_m_11,0.0175,0, SATISFIABLE,v -1 -2 3 4 -5 0
+722,512,n_5_m_12,0.0188,0, SATISFIABLE,v -1 2 3 -4 -5 0
+723,512,n_5_m_13,0.0001,"[True,False,True,True,False]", SATISFIABLE,v -1 -2 -3 4 -5 0
+724,512,n_5_m_14,0.0001,"[True,False,False,False,False]", SATISFIABLE,v 1 -2 -3 -4 -5 0
+725,512,n_5_m_15,0.0184,0, SATISFIABLE,v -1 -2 -3 4 -5 0
+726,512,n_5_m_16,0.019,0, SATISFIABLE,v -1 -2 3 -4 -5 0
+727,512,n_5_m_17,0.0178,0, SATISFIABLE,v 1 -2 3 4 5 0
+728,512,n_5_m_18,0.0189,0, SATISFIABLE,v -1 2 3 -4 -5 0
+729,512,n_5_m_19,0.0001,"[True,False,False,True,True]", SATISFIABLE,v 1 -2 -3 4 5 0
+730,512,n_5_m_20,0.0001,"[True,True,False,False,False]", SATISFIABLE,v 1 2 -3 -4 -5 0
+731,512,n_5_m_21,0.0178,0, SATISFIABLE,v 1 -2 -3 -4 -5 0
+732,512,n_5_m_22,0.0182,0, UNSATISFIABLE,0
+733,512,n_5_m_23,0.0208,0, UNSATISFIABLE,0
+734,512,n_5_m_24,0.0184,0, SATISFIABLE,v -1 2 -3 4 5 0
+735,512,n_5_m_10,0.0192,"[True,True,True,False,False]", SATISFIABLE,v -1 2 3 4 -5 0
+736,512,n_5_m_11,0.0001,"[True,True,True,False,True]", SATISFIABLE,v -1 2 3 -4 -5 0
+737,512,n_5_m_12,0.0182,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+738,512,n_5_m_13,0.0189,0, SATISFIABLE,v -1 2 -3 4 5 0
+739,512,n_5_m_14,0.0202,0, SATISFIABLE,v -1 -2 3 4 -5 0
+740,512,n_5_m_15,0.0181,0, SATISFIABLE,v -1 2 -3 4 -5 0
+741,512,n_5_m_16,0.0212,0, SATISFIABLE,v -1 -2 3 4 -5 0
+742,512,n_5_m_17,0.0173,0, SATISFIABLE,v -1 2 -3 -4 -5 0
+743,512,n_5_m_18,0.0178,0, SATISFIABLE,v -1 -2 -3 -4 -5 0
+744,512,n_5_m_19,0.0178,0, SATISFIABLE,v 1 2 -3 4 5 0
+745,512,n_5_m_20,0.0172,0, UNSATISFIABLE,0
+746,512,n_5_m_21,0.0168,0, SATISFIABLE,v -1 2 -3 4 -5 0
+747,512,n_5_m_22,0.0195,0, SATISFIABLE,v 1 -2 3 -4 5 0
+748,512,n_5_m_23,0.0182,0, UNSATISFIABLE,0
+749,512,n_5_m_24,0.0181,0, UNSATISFIABLE,0

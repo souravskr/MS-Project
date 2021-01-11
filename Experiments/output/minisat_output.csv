@@ -1,0 +1,151 @@
+dimacs,satisfiability,sat_ass
+6_k_3_n_5_m_20, SATISFIABLE,v 1 -2 -3 -4 5 0
+3_k_3_n_5_m_24, UNSATISFIABLE,0
+4_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 -5 0
+5_k_3_n_5_m_14, SATISFIABLE,v -1 2 -3 -4 5 0
+0_k_3_n_5_m_22, SATISFIABLE,v 1 -2 3 -4 5 0
+3_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 4 -5 0
+8_k_3_n_5_m_18, SATISFIABLE,v -1 2 3 -4 -5 0
+2_k_3_n_5_m_24, SATISFIABLE,v -1 2 3 -4 -5 0
+4_k_3_n_5_m_19, SATISFIABLE,v -1 2 -3 4 -5 0
+8_k_3_n_5_m_22, UNSATISFIABLE,0
+1_k_3_n_5_m_14, SATISFIABLE,v -1 -2 -3 4 -5 0
+4_k_3_n_5_m_14, SATISFIABLE,v -1 -2 3 -4 -5 0
+3_k_3_n_5_m_22, UNSATISFIABLE,0
+9_k_3_n_5_m_24, UNSATISFIABLE,0
+8_k_3_n_5_m_12, SATISFIABLE,v -1 2 3 -4 -5 0
+4_k_3_n_5_m_18, SATISFIABLE,v 1 -2 -3 4 5 0
+8_k_3_n_5_m_10, SATISFIABLE,v -1 -2 -3 -4 -5 0
+3_k_3_n_5_m_21, SATISFIABLE,v -1 2 -3 -4 5 0
+7_k_3_n_5_m_20, SATISFIABLE,v 1 -2 -3 4 5 0
+0_k_3_n_5_m_19, UNSATISFIABLE,0
+2_k_3_n_5_m_18, SATISFIABLE,v -1 -2 -3 -4 -5 0
+9_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 4 -5 0
+2_k_3_n_5_m_21, UNSATISFIABLE,0
+7_k_3_n_5_m_17, SATISFIABLE,v -1 2 3 -4 -5 0
+8_k_3_n_5_m_23, UNSATISFIABLE,0
+1_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 4 -5 0
+5_k_3_n_5_m_16, SATISFIABLE,v -1 -2 3 -4 -5 0
+3_k_3_n_5_m_19, UNSATISFIABLE,0
+3_k_3_n_5_m_23, SATISFIABLE,v 1 -2 3 -4 -5 0
+6_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 -4 -5 0
+0_k_3_n_5_m_11, SATISFIABLE,v -1 -2 -3 -4 -5 0
+1_k_3_n_5_m_24, UNSATISFIABLE,0
+1_k_3_n_5_m_20, UNSATISFIABLE,0
+2_k_3_n_5_m_15, SATISFIABLE,v -1 -2 3 -4 -5 0
+0_k_3_n_5_m_20, SATISFIABLE,v -1 -2 -3 -4 5 0
+5_k_3_n_5_m_23, SATISFIABLE,v 1 -2 -3 4 -5 0
+1_k_3_n_5_m_16, SATISFIABLE,v -1 -2 -3 -4 5 0
+2_k_3_n_5_m_19, SATISFIABLE,v -1 2 3 4 -5 0
+5_k_3_n_5_m_10, SATISFIABLE,v -1 2 3 -4 -5 0
+4_k_3_n_5_m_17, SATISFIABLE,v -1 2 -3 -4 -5 0
+9_k_3_n_5_m_21, SATISFIABLE,v -1 2 -3 4 -5 0
+1_k_3_n_5_m_23, UNSATISFIABLE,0
+8_k_3_n_5_m_21, SATISFIABLE,v 1 -2 -3 -4 -5 0
+7_k_3_n_5_m_12, SATISFIABLE,v -1 -2 3 4 5 0
+5_k_3_n_5_m_24, SATISFIABLE,v -1 -2 3 4 -5 0
+9_k_3_n_5_m_22, SATISFIABLE,v 1 -2 3 -4 5 0
+6_k_3_n_5_m_21, SATISFIABLE,v -1 -2 -3 4 -5 0
+3_k_3_n_5_m_17, SATISFIABLE,v 1 -2 -3 -4 5 0
+1_k_3_n_5_m_10, SATISFIABLE,v -1 -2 -3 -4 -5 0
+8_k_3_n_5_m_24, SATISFIABLE,v -1 2 -3 4 5 0
+6_k_3_n_5_m_19, SATISFIABLE,v 1 2 3 -4 -5 0
+0_k_3_n_5_m_17, SATISFIABLE,v -1 -2 -3 4 -5 0
+6_k_3_n_5_m_16, SATISFIABLE,v -1 2 -3 -4 -5 0
+5_k_3_n_5_m_13, SATISFIABLE,v -1 2 3 -4 -5 0
+0_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 4 -5 0
+7_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 -5 0
+7_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 -4 -5 0
+5_k_3_n_5_m_18, SATISFIABLE,v -1 -2 3 4 5 0
+7_k_3_n_5_m_22, UNSATISFIABLE,0
+2_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 -5 0
+6_k_3_n_5_m_11, SATISFIABLE,v -1 2 3 4 5 0
+1_k_3_n_5_m_19, SATISFIABLE,v -1 -2 -3 4 -5 0
+5_k_3_n_5_m_17, SATISFIABLE,v -1 -2 3 -4 5 0
+0_k_3_n_5_m_12, SATISFIABLE,v -1 -2 -3 -4 5 0
+8_k_3_n_5_m_17, SATISFIABLE,v 1 -2 3 4 5 0
+6_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 -4 -5 0
+4_k_3_n_5_m_21, SATISFIABLE,v -1 2 3 -4 -5 0
+3_k_3_n_5_m_10, SATISFIABLE,v -1 2 -3 -4 -5 0
+4_k_3_n_5_m_12, SATISFIABLE,v -1 2 3 4 -5 0
+2_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 -4 -5 0
+2_k_3_n_5_m_20, SATISFIABLE,v -1 -2 -3 -4 -5 0
+1_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 4 -5 0
+6_k_3_n_5_m_18, SATISFIABLE,v -1 2 -3 4 -5 0
+2_k_3_n_5_m_22, UNSATISFIABLE,0
+8_k_3_n_5_m_19, SATISFIABLE,v 1 -2 -3 4 5 0
+9_k_3_n_5_m_20, UNSATISFIABLE,0
+7_k_3_n_5_m_16, SATISFIABLE,v -1 2 -3 4 -5 0
+0_k_3_n_5_m_24, SATISFIABLE,v 1 2 -3 -4 -5 0
+9_k_3_n_5_m_16, SATISFIABLE,v -1 -2 3 4 -5 0
+5_k_3_n_5_m_20, SATISFIABLE,v -1 2 3 4 5 0
+1_k_3_n_5_m_21, SATISFIABLE,v -1 -2 -3 4 -5 0
+1_k_3_n_5_m_18, SATISFIABLE,v -1 2 3 4 -5 0
+9_k_3_n_5_m_17, SATISFIABLE,v -1 2 -3 -4 -5 0
+8_k_3_n_5_m_11, SATISFIABLE,v -1 -2 3 4 -5 0
+6_k_3_n_5_m_22, UNSATISFIABLE,0
+2_k_3_n_5_m_14, SATISFIABLE,v 1 -2 3 -4 -5 0
+5_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 -4 -5 0
+0_k_3_n_5_m_13, SATISFIABLE,v 1 -2 -3 4 -5 0
+4_k_3_n_5_m_23, SATISFIABLE,v -1 2 -3 4 5 0
+5_k_3_n_5_m_12, SATISFIABLE,v -1 -2 3 -4 -5 0
+9_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 -4 -5 0
+8_k_3_n_5_m_16, SATISFIABLE,v -1 -2 3 -4 -5 0
+6_k_3_n_5_m_23, SATISFIABLE,v 1 2 -3 4 -5 0
+8_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 4 -5 0
+7_k_3_n_5_m_18, SATISFIABLE,v -1 -2 -3 -4 -5 0
+4_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 -4 -5 0
+3_k_3_n_5_m_14, SATISFIABLE,v -1 2 3 4 5 0
+5_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 5 0
+3_k_3_n_5_m_20, SATISFIABLE,v -1 2 3 4 5 0
+1_k_3_n_5_m_15, SATISFIABLE,v -1 -2 3 -4 -5 0
+7_k_3_n_5_m_19, SATISFIABLE,v -1 2 3 4 -5 0
+9_k_3_n_5_m_18, SATISFIABLE,v -1 -2 -3 -4 -5 0
+2_k_3_n_5_m_16, SATISFIABLE,v -1 2 3 -4 -5 0
+4_k_3_n_5_m_22, SATISFIABLE,v -1 -2 3 4 -5 0
+7_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 -4 -5 0
+8_k_3_n_5_m_14, SATISFIABLE,v 1 -2 -3 -4 -5 0
+5_k_3_n_5_m_21, UNSATISFIABLE,0
+4_k_3_n_5_m_10, SATISFIABLE,v -1 -2 3 -4 -5 0
+2_k_3_n_5_m_17, SATISFIABLE,v -1 2 3 -4 5 0
+6_k_3_n_5_m_13, SATISFIABLE,v -1 2 3 -4 5 0
+9_k_3_n_5_m_10, SATISFIABLE,v -1 2 3 4 -5 0
+0_k_3_n_5_m_18, SATISFIABLE,v 1 2 -3 -4 5 0
+3_k_3_n_5_m_16, SATISFIABLE,v -1 2 3 4 -5 0
+9_k_3_n_5_m_23, UNSATISFIABLE,0
+0_k_3_n_5_m_23, SATISFIABLE,v -1 2 -3 4 -5 0
+8_k_3_n_5_m_20, SATISFIABLE,v 1 2 -3 -4 -5 0
+7_k_3_n_5_m_10, SATISFIABLE,v -1 2 -3 4 5 0
+0_k_3_n_5_m_14, SATISFIABLE,v -1 2 -3 4 -5 0
+9_k_3_n_5_m_19, SATISFIABLE,v 1 2 -3 4 5 0
+0_k_3_n_5_m_16, SATISFIABLE,v -1 2 3 -4 5 0
+6_k_3_n_5_m_10, SATISFIABLE,v -1 -2 3 -4 -5 0
+2_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 -4 -5 0
+5_k_3_n_5_m_19, SATISFIABLE,v -1 2 3 4 5 0
+7_k_3_n_5_m_24, UNSATISFIABLE,0
+4_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 4 -5 0
+3_k_3_n_5_m_11, SATISFIABLE,v -1 -2 -3 -4 5 0
+5_k_3_n_5_m_22, UNSATISFIABLE,0
+7_k_3_n_5_m_21, SATISFIABLE,v 1 -2 -3 -4 -5 0
+9_k_3_n_5_m_14, SATISFIABLE,v -1 -2 3 4 -5 0
+3_k_3_n_5_m_18, SATISFIABLE,v 1 2 3 4 -5 0
+6_k_3_n_5_m_24, UNSATISFIABLE,0
+3_k_3_n_5_m_13, SATISFIABLE,v -1 -2 3 -4 -5 0
+7_k_3_n_5_m_14, UNSATISFIABLE,0
+6_k_3_n_5_m_17, SATISFIABLE,v -1 -2 -3 -4 -5 0
+4_k_3_n_5_m_16, SATISFIABLE,v -1 2 -3 4 -5 0
+0_k_3_n_5_m_10, SATISFIABLE,v -1 -2 -3 -4 -5 0
+6_k_3_n_5_m_14, SATISFIABLE,v -1 2 3 4 -5 0
+4_k_3_n_5_m_20, SATISFIABLE,v -1 2 -3 4 -5 0
+4_k_3_n_5_m_24, UNSATISFIABLE,0
+1_k_3_n_5_m_17, SATISFIABLE,v -1 -2 3 -4 -5 0
+1_k_3_n_5_m_11, SATISFIABLE,v -1 -2 -3 -4 5 0
+2_k_3_n_5_m_23, UNSATISFIABLE,0
+7_k_3_n_5_m_23, SATISFIABLE,v -1 -2 -3 -4 5 0
+1_k_3_n_5_m_22, UNSATISFIABLE,0
+2_k_3_n_5_m_10, SATISFIABLE,v -1 2 -3 4 -5 0
+3_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 -4 5 0
+8_k_3_n_5_m_13, SATISFIABLE,v -1 -2 -3 4 -5 0
+9_k_3_n_5_m_11, SATISFIABLE,v -1 2 3 -4 -5 0
+0_k_3_n_5_m_21, SATISFIABLE,v -1 2 3 4 5 0
+9_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 4 5 0

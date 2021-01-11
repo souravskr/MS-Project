@@ -1,0 +1,16 @@
+Iterations,Total Execution Time For NeuroSAT(seconds ),NeuroSAT prediction,CryptoMinisat Prediction
+26,16.73,SAT,SAT
+26,44.28,UNSAT,UNSAT
+26,131.43,No Solution,SAT
+50,29.62,SAT,SAT
+50,43.47,UNSAT,UNSAT
+50,124.34,No Solution,SAT
+100,27.15,SAT,SAT
+100,43.29,UNSAT,UNSAT
+100,120.56,No Solution,SAT
+200,26.86,SAT,SAT
+200,42.44,UNSAT,UNSAT
+200,119.7,No Solution,SAT
+512,27.93,SAT,SAT
+512,44.71,UNSAT,UNSAT
+512,124.05,No Solution,SAT

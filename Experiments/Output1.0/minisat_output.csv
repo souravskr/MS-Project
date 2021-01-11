@@ -1,0 +1,151 @@
+,index,satisfiability,sat_ass
+0,6_k_3_n_5_m_20, SATISFIABLE,v 1 -2 -3 -4 5 0
+1,3_k_3_n_5_m_24,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+2,4_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 -5 0
+3,5_k_3_n_5_m_14, SATISFIABLE,v -1 2 -3 -4 5 0
+4,0_k_3_n_5_m_22, SATISFIABLE,v 1 -2 3 -4 5 0
+5,3_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 4 -5 0
+6,8_k_3_n_5_m_18, SATISFIABLE,v -1 2 3 -4 -5 0
+7,2_k_3_n_5_m_24, SATISFIABLE,v -1 2 3 -4 -5 0
+8,4_k_3_n_5_m_19, SATISFIABLE,v -1 2 -3 4 -5 0
+9,8_k_3_n_5_m_22,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+10,1_k_3_n_5_m_14, SATISFIABLE,v -1 -2 -3 4 -5 0
+11,4_k_3_n_5_m_14, SATISFIABLE,v -1 -2 3 -4 -5 0
+12,3_k_3_n_5_m_22,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+13,9_k_3_n_5_m_24,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+14,8_k_3_n_5_m_12, SATISFIABLE,v -1 2 3 -4 -5 0
+15,4_k_3_n_5_m_18, SATISFIABLE,v 1 -2 -3 4 5 0
+16,8_k_3_n_5_m_10, SATISFIABLE,v -1 -2 -3 -4 -5 0
+17,3_k_3_n_5_m_21, SATISFIABLE,v -1 2 -3 -4 5 0
+18,7_k_3_n_5_m_20, SATISFIABLE,v 1 -2 -3 4 5 0
+19,0_k_3_n_5_m_19,c Total time (thi thread) : 0.01        , UNSATISFIABLE
+20,2_k_3_n_5_m_18, SATISFIABLE,v -1 -2 -3 -4 -5 0
+21,9_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 4 -5 0
+22,2_k_3_n_5_m_21,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+23,7_k_3_n_5_m_17, SATISFIABLE,v -1 2 3 -4 -5 0
+24,8_k_3_n_5_m_23,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+25,1_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 4 -5 0
+26,5_k_3_n_5_m_16, SATISFIABLE,v -1 -2 3 -4 -5 0
+27,3_k_3_n_5_m_19,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+28,3_k_3_n_5_m_23, SATISFIABLE,v 1 -2 3 -4 -5 0
+29,6_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 -4 -5 0
+30,0_k_3_n_5_m_11, SATISFIABLE,v -1 -2 -3 -4 -5 0
+31,1_k_3_n_5_m_24,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+32,1_k_3_n_5_m_20,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+33,2_k_3_n_5_m_15, SATISFIABLE,v -1 -2 3 -4 -5 0
+34,0_k_3_n_5_m_20, SATISFIABLE,v -1 -2 -3 -4 5 0
+35,5_k_3_n_5_m_23, SATISFIABLE,v 1 -2 -3 4 -5 0
+36,1_k_3_n_5_m_16, SATISFIABLE,v -1 -2 -3 -4 5 0
+37,2_k_3_n_5_m_19, SATISFIABLE,v -1 2 3 4 -5 0
+38,5_k_3_n_5_m_10, SATISFIABLE,v -1 2 3 -4 -5 0
+39,4_k_3_n_5_m_17, SATISFIABLE,v -1 2 -3 -4 -5 0
+40,9_k_3_n_5_m_21, SATISFIABLE,v -1 2 -3 4 -5 0
+41,1_k_3_n_5_m_23,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+42,8_k_3_n_5_m_21, SATISFIABLE,v 1 -2 -3 -4 -5 0
+43,7_k_3_n_5_m_12, SATISFIABLE,v -1 -2 3 4 5 0
+44,5_k_3_n_5_m_24, SATISFIABLE,v -1 -2 3 4 -5 0
+45,9_k_3_n_5_m_22, SATISFIABLE,v 1 -2 3 -4 5 0
+46,6_k_3_n_5_m_21, SATISFIABLE,v -1 -2 -3 4 -5 0
+47,3_k_3_n_5_m_17, SATISFIABLE,v 1 -2 -3 -4 5 0
+48,1_k_3_n_5_m_10, SATISFIABLE,v -1 -2 -3 -4 -5 0
+49,8_k_3_n_5_m_24, SATISFIABLE,v -1 2 -3 4 5 0
+50,6_k_3_n_5_m_19, SATISFIABLE,v 1 2 3 -4 -5 0
+51,0_k_3_n_5_m_17, SATISFIABLE,v -1 -2 -3 4 -5 0
+52,6_k_3_n_5_m_16, SATISFIABLE,v -1 2 -3 -4 -5 0
+53,5_k_3_n_5_m_13, SATISFIABLE,v -1 2 3 -4 -5 0
+54,0_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 4 -5 0
+55,7_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 -5 0
+56,7_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 -4 -5 0
+57,5_k_3_n_5_m_18, SATISFIABLE,v -1 -2 3 4 5 0
+58,7_k_3_n_5_m_22,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+59,2_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 -5 0
+60,6_k_3_n_5_m_11, SATISFIABLE,v -1 2 3 4 5 0
+61,1_k_3_n_5_m_19, SATISFIABLE,v -1 -2 -3 4 -5 0
+62,5_k_3_n_5_m_17, SATISFIABLE,v -1 -2 3 -4 5 0
+63,0_k_3_n_5_m_12, SATISFIABLE,v -1 -2 -3 -4 5 0
+64,8_k_3_n_5_m_17, SATISFIABLE,v 1 -2 3 4 5 0
+65,6_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 -4 -5 0
+66,4_k_3_n_5_m_21, SATISFIABLE,v -1 2 3 -4 -5 0
+67,3_k_3_n_5_m_10, SATISFIABLE,v -1 2 -3 -4 -5 0
+68,4_k_3_n_5_m_12, SATISFIABLE,v -1 2 3 4 -5 0
+69,2_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 -4 -5 0
+70,2_k_3_n_5_m_20, SATISFIABLE,v -1 -2 -3 -4 -5 0
+71,1_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 4 -5 0
+72,6_k_3_n_5_m_18, SATISFIABLE,v -1 2 -3 4 -5 0
+73,2_k_3_n_5_m_22,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+74,8_k_3_n_5_m_19, SATISFIABLE,v 1 -2 -3 4 5 0
+75,9_k_3_n_5_m_20,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+76,7_k_3_n_5_m_16, SATISFIABLE,v -1 2 -3 4 -5 0
+77,0_k_3_n_5_m_24, SATISFIABLE,v 1 2 -3 -4 -5 0
+78,9_k_3_n_5_m_16, SATISFIABLE,v -1 -2 3 4 -5 0
+79,5_k_3_n_5_m_20, SATISFIABLE,v -1 2 3 4 5 0
+80,1_k_3_n_5_m_21, SATISFIABLE,v -1 -2 -3 4 -5 0
+81,1_k_3_n_5_m_18, SATISFIABLE,v -1 2 3 4 -5 0
+82,9_k_3_n_5_m_17, SATISFIABLE,v -1 2 -3 -4 -5 0
+83,8_k_3_n_5_m_11, SATISFIABLE,v -1 -2 3 4 -5 0
+84,6_k_3_n_5_m_22,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+85,2_k_3_n_5_m_14, SATISFIABLE,v 1 -2 3 -4 -5 0
+86,5_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 -4 -5 0
+87,0_k_3_n_5_m_13, SATISFIABLE,v 1 -2 -3 4 -5 0
+88,4_k_3_n_5_m_23, SATISFIABLE,v -1 2 -3 4 5 0
+89,5_k_3_n_5_m_12, SATISFIABLE,v -1 -2 3 -4 -5 0
+90,9_k_3_n_5_m_12, SATISFIABLE,v -1 2 -3 -4 -5 0
+91,8_k_3_n_5_m_16, SATISFIABLE,v -1 -2 3 -4 -5 0
+92,6_k_3_n_5_m_23, SATISFIABLE,v 1 2 -3 4 -5 0
+93,8_k_3_n_5_m_15, SATISFIABLE,v -1 -2 -3 4 -5 0
+94,7_k_3_n_5_m_18, SATISFIABLE,v -1 -2 -3 -4 -5 0
+95,4_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 -4 -5 0
+96,3_k_3_n_5_m_14, SATISFIABLE,v -1 2 3 4 5 0
+97,5_k_3_n_5_m_11, SATISFIABLE,v -1 2 -3 -4 5 0
+98,3_k_3_n_5_m_20, SATISFIABLE,v -1 2 3 4 5 0
+99,1_k_3_n_5_m_15, SATISFIABLE,v -1 -2 3 -4 -5 0
+100,7_k_3_n_5_m_19, SATISFIABLE,v -1 2 3 4 -5 0
+101,9_k_3_n_5_m_18, SATISFIABLE,v -1 -2 -3 -4 -5 0
+102,2_k_3_n_5_m_16, SATISFIABLE,v -1 2 3 -4 -5 0
+103,4_k_3_n_5_m_22, SATISFIABLE,v -1 -2 3 4 -5 0
+104,7_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 -4 -5 0
+105,8_k_3_n_5_m_14, SATISFIABLE,v 1 -2 -3 -4 -5 0
+106,5_k_3_n_5_m_21,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+107,4_k_3_n_5_m_10, SATISFIABLE,v -1 -2 3 -4 -5 0
+108,2_k_3_n_5_m_17, SATISFIABLE,v -1 2 3 -4 5 0
+109,6_k_3_n_5_m_13, SATISFIABLE,v -1 2 3 -4 5 0
+110,9_k_3_n_5_m_10, SATISFIABLE,v -1 2 3 4 -5 0
+111,0_k_3_n_5_m_18, SATISFIABLE,v 1 2 -3 -4 5 0
+112,3_k_3_n_5_m_16, SATISFIABLE,v -1 2 3 4 -5 0
+113,9_k_3_n_5_m_23,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+114,0_k_3_n_5_m_23, SATISFIABLE,v -1 2 -3 4 -5 0
+115,8_k_3_n_5_m_20, SATISFIABLE,v 1 2 -3 -4 -5 0
+116,7_k_3_n_5_m_10, SATISFIABLE,v -1 2 -3 4 5 0
+117,0_k_3_n_5_m_14, SATISFIABLE,v -1 2 -3 4 -5 0
+118,9_k_3_n_5_m_19, SATISFIABLE,v 1 2 -3 4 5 0
+119,0_k_3_n_5_m_16, SATISFIABLE,v -1 2 3 -4 5 0
+120,6_k_3_n_5_m_10, SATISFIABLE,v -1 -2 3 -4 -5 0
+121,2_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 -4 -5 0
+122,5_k_3_n_5_m_19, SATISFIABLE,v -1 2 3 4 5 0
+123,7_k_3_n_5_m_24,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+124,4_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 4 -5 0
+125,3_k_3_n_5_m_11, SATISFIABLE,v -1 -2 -3 -4 5 0
+126,5_k_3_n_5_m_22,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+127,7_k_3_n_5_m_21, SATISFIABLE,v 1 -2 -3 -4 -5 0
+128,9_k_3_n_5_m_14, SATISFIABLE,v -1 -2 3 4 -5 0
+129,3_k_3_n_5_m_18, SATISFIABLE,v 1 2 3 4 -5 0
+130,6_k_3_n_5_m_24,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+131,3_k_3_n_5_m_13, SATISFIABLE,v -1 -2 3 -4 -5 0
+132,7_k_3_n_5_m_14,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+133,6_k_3_n_5_m_17, SATISFIABLE,v -1 -2 -3 -4 -5 0
+134,4_k_3_n_5_m_16, SATISFIABLE,v -1 2 -3 4 -5 0
+135,0_k_3_n_5_m_10, SATISFIABLE,v -1 -2 -3 -4 -5 0
+136,6_k_3_n_5_m_14, SATISFIABLE,v -1 2 3 4 -5 0
+137,4_k_3_n_5_m_20, SATISFIABLE,v -1 2 -3 4 -5 0
+138,4_k_3_n_5_m_24,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+139,1_k_3_n_5_m_17, SATISFIABLE,v -1 -2 3 -4 -5 0
+140,1_k_3_n_5_m_11, SATISFIABLE,v -1 -2 -3 -4 5 0
+141,2_k_3_n_5_m_23,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+142,7_k_3_n_5_m_23, SATISFIABLE,v -1 -2 -3 -4 5 0
+143,1_k_3_n_5_m_22,c Total time (thi thread) : 0.00        , UNSATISFIABLE
+144,2_k_3_n_5_m_10, SATISFIABLE,v -1 2 -3 4 -5 0
+145,3_k_3_n_5_m_15, SATISFIABLE,v -1 2 -3 -4 5 0
+146,8_k_3_n_5_m_13, SATISFIABLE,v -1 -2 -3 4 -5 0
+147,9_k_3_n_5_m_11, SATISFIABLE,v -1 2 3 -4 -5 0
+148,0_k_3_n_5_m_21, SATISFIABLE,v -1 2 3 4 5 0
+149,9_k_3_n_5_m_13, SATISFIABLE,v -1 2 -3 4 5 0

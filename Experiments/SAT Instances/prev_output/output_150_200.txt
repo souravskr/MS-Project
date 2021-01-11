@@ -1,0 +1,153 @@
+Namespace(clip_val=0.5, d=128, final_reducer='mean', l2_weight=1e-09, lr_decay=0.99, lr_decay_steps=5, lr_decay_type='exp', lr_end=1e-06, lr_power=0.5, lr_start=0.0001, lstm_transfer_fn='relu', mlp_transfer_fn='relu', n_msg_layers=3, n_rounds=200, n_saves_to_keep=1, n_vote_layers=3, np_seed=0, restore_epoch=4, restore_id=100, run_id=None, solve_dir='data/test/sr5', tf_seed=0)
+150 150
+Total Runtime to find every soulution: 1.997293472290039
+[0_k_3_n_5_m_10.dimacs] 0.0001 [False, True, False, False, False]
+[0_k_3_n_5_m_11.dimacs] 0.0198 None
+[0_k_3_n_5_m_12.dimacs] 0.0001 [True, True, False, True, True]
+[0_k_3_n_5_m_13.dimacs] 0.0001 [True, True, False, True, True]
+[0_k_3_n_5_m_14.dimacs] 0.0001 [True, True, True, True, False]
+[0_k_3_n_5_m_15.dimacs] 0.0001 [True, True, False, True, False]
+[0_k_3_n_5_m_16.dimacs] 0.0001 [False, True, True, False, True]
+[0_k_3_n_5_m_17.dimacs] 0.0195 None
+[0_k_3_n_5_m_18.dimacs] 0.0198 None
+[0_k_3_n_5_m_19.dimacs] 0.0211 None
+[0_k_3_n_5_m_20.dimacs] 0.02 None
+[0_k_3_n_5_m_21.dimacs] 0.0002 [True, False, True, False, True]
+[0_k_3_n_5_m_22.dimacs] 0.0196 None
+[0_k_3_n_5_m_23.dimacs] 0.0189 [False, True, False, True, False]
+[0_k_3_n_5_m_24.dimacs] 0.0181 None
+[1_k_3_n_5_m_10.dimacs] 0.0001 [False, False, True, True, False]
+[1_k_3_n_5_m_11.dimacs] 0.0001 [False, False, False, False, True]
+[1_k_3_n_5_m_12.dimacs] 0.0001 [False, False, False, True, True]
+[1_k_3_n_5_m_13.dimacs] 0.0197 None
+[1_k_3_n_5_m_14.dimacs] 0.0001 [True, False, False, False, False]
+[1_k_3_n_5_m_15.dimacs] 0.0001 [False, False, True, False, False]
+[1_k_3_n_5_m_16.dimacs] 0.0189 None
+[1_k_3_n_5_m_17.dimacs] 0.0218 None
+[1_k_3_n_5_m_18.dimacs] 0.0185 None
+[1_k_3_n_5_m_19.dimacs] 0.0182 [False, True, True, False, True]
+[1_k_3_n_5_m_20.dimacs] 0.0188 None
+[1_k_3_n_5_m_21.dimacs] 0.0196 None
+[1_k_3_n_5_m_22.dimacs] 0.0185 None
+[1_k_3_n_5_m_23.dimacs] 0.0176 None
+[1_k_3_n_5_m_24.dimacs] 0.021 None
+[2_k_3_n_5_m_10.dimacs] 0.0204 None
+[2_k_3_n_5_m_11.dimacs] 0.0182 [True, False, False, False, True]
+[2_k_3_n_5_m_12.dimacs] 0.0001 [False, True, False, True, True]
+[2_k_3_n_5_m_13.dimacs] 0.0192 None
+[2_k_3_n_5_m_14.dimacs] 0.0177 None
+[2_k_3_n_5_m_15.dimacs] 0.0248 None
+[2_k_3_n_5_m_16.dimacs] 0.0001 [True, True, True, True, False]
+[2_k_3_n_5_m_17.dimacs] 0.0217 None
+[2_k_3_n_5_m_18.dimacs] 0.0001 [False, False, True, False, False]
+[2_k_3_n_5_m_19.dimacs] 0.0191 None
+[2_k_3_n_5_m_20.dimacs] 0.0182 None
+[2_k_3_n_5_m_21.dimacs] 0.0183 None
+[2_k_3_n_5_m_22.dimacs] 0.0178 None
+[2_k_3_n_5_m_23.dimacs] 0.02 None
+[2_k_3_n_5_m_24.dimacs] 0.0182 None
+[3_k_3_n_5_m_10.dimacs] 0.018 [False, True, False, True, True]
+[3_k_3_n_5_m_11.dimacs] 0.0172 [True, True, False, False, True]
+[3_k_3_n_5_m_12.dimacs] 0.0179 None
+[3_k_3_n_5_m_13.dimacs] 0.0181 None
+[3_k_3_n_5_m_14.dimacs] 0.0179 None
+[3_k_3_n_5_m_15.dimacs] 0.0001 [False, True, False, True, True]
+[3_k_3_n_5_m_16.dimacs] 0.0001 [True, False, True, True, False]
+[3_k_3_n_5_m_17.dimacs] 0.0001 [True, False, False, False, True]
+[3_k_3_n_5_m_18.dimacs] 0.0001 [True, True, True, True, False]
+[3_k_3_n_5_m_19.dimacs] 0.0178 None
+[3_k_3_n_5_m_20.dimacs] 0.0181 None
+[3_k_3_n_5_m_21.dimacs] 0.0188 None
+[3_k_3_n_5_m_22.dimacs] 0.0186 None
+[3_k_3_n_5_m_23.dimacs] 0.0001 [True, False, True, False, False]
+[3_k_3_n_5_m_24.dimacs] 0.0175 None
+[4_k_3_n_5_m_10.dimacs] 0.0001 [True, True, True, True, False]
+[4_k_3_n_5_m_11.dimacs] 0.0001 [False, True, False, False, False]
+[4_k_3_n_5_m_12.dimacs] 0.0175 None
+[4_k_3_n_5_m_13.dimacs] 0.0174 [False, True, True, True, True]
+[4_k_3_n_5_m_14.dimacs] 0.0001 [True, False, True, False, False]
+[4_k_3_n_5_m_15.dimacs] 0.0188 None
+[4_k_3_n_5_m_16.dimacs] 0.0201 None
+[4_k_3_n_5_m_17.dimacs] 0.0176 None
+[4_k_3_n_5_m_18.dimacs] 0.0176 [True, False, False, True, True]
+[4_k_3_n_5_m_19.dimacs] 0.0001 [False, True, False, True, True]
+[4_k_3_n_5_m_20.dimacs] 0.0001 [True, True, False, True, True]
+[4_k_3_n_5_m_21.dimacs] 0.0189 None
+[4_k_3_n_5_m_22.dimacs] 0.0185 None
+[4_k_3_n_5_m_23.dimacs] 0.0178 None
+[4_k_3_n_5_m_24.dimacs] 0.023 None
+[5_k_3_n_5_m_10.dimacs] 0.0201 [True, True, True, False, False]
+[5_k_3_n_5_m_11.dimacs] 0.0001 [False, True, False, False, True]
+[5_k_3_n_5_m_12.dimacs] 0.0001 [False, False, True, False, False]
+[5_k_3_n_5_m_13.dimacs] 0.0174 None
+[5_k_3_n_5_m_14.dimacs] 0.0189 [True, True, True, True, True]
+[5_k_3_n_5_m_15.dimacs] 0.0002 [False, True, False, True, False]
+[5_k_3_n_5_m_16.dimacs] 0.0195 None
+[5_k_3_n_5_m_17.dimacs] 0.0001 [False, False, True, False, True]
+[5_k_3_n_5_m_18.dimacs] 0.019 None
+[5_k_3_n_5_m_19.dimacs] 0.0181 None
+[5_k_3_n_5_m_20.dimacs] 0.021 None
+[5_k_3_n_5_m_21.dimacs] 0.0185 None
+[5_k_3_n_5_m_22.dimacs] 0.0175 None
+[5_k_3_n_5_m_23.dimacs] 0.0001 [True, False, False, False, False]
+[5_k_3_n_5_m_24.dimacs] 0.0209 None
+[6_k_3_n_5_m_10.dimacs] 0.0187 [False, True, True, True, True]
+[6_k_3_n_5_m_11.dimacs] 0.0001 [False, True, False, True, True]
+[6_k_3_n_5_m_12.dimacs] 0.0183 None
+[6_k_3_n_5_m_13.dimacs] 0.0001 [False, True, True, False, True]
+[6_k_3_n_5_m_14.dimacs] 0.0002 [False, False, False, True, False]
+[6_k_3_n_5_m_15.dimacs] 0.0182 None
+[6_k_3_n_5_m_16.dimacs] 0.0205 None
+[6_k_3_n_5_m_17.dimacs] 0.0001 [False, True, True, False, False]
+[6_k_3_n_5_m_18.dimacs] 0.0189 None
+[6_k_3_n_5_m_19.dimacs] 0.0182 None
+[6_k_3_n_5_m_20.dimacs] 0.0179 None
+[6_k_3_n_5_m_21.dimacs] 0.0181 None
+[6_k_3_n_5_m_22.dimacs] 0.0226 None
+[6_k_3_n_5_m_23.dimacs] 0.0183 None
+[6_k_3_n_5_m_24.dimacs] 0.0182 None
+[7_k_3_n_5_m_10.dimacs] 0.0175 None
+[7_k_3_n_5_m_11.dimacs] 0.0001 [False, True, False, False, False]
+[7_k_3_n_5_m_12.dimacs] 0.019 [True, True, True, True, True]
+[7_k_3_n_5_m_13.dimacs] 0.0001 [True, True, True, False, False]
+[7_k_3_n_5_m_14.dimacs] 0.0173 None
+[7_k_3_n_5_m_15.dimacs] 0.0173 [True, False, False, True, True]
+[7_k_3_n_5_m_16.dimacs] 0.0181 None
+[7_k_3_n_5_m_17.dimacs] 0.0001 [False, True, True, False, False]
+[7_k_3_n_5_m_18.dimacs] 0.0001 [False, False, False, False, False]
+[7_k_3_n_5_m_19.dimacs] 0.0001 [False, False, False, True, False]
+[7_k_3_n_5_m_20.dimacs] 0.0253 None
+[7_k_3_n_5_m_21.dimacs] 0.0187 [True, False, False, False, False]
+[7_k_3_n_5_m_22.dimacs] 0.0179 None
+[7_k_3_n_5_m_23.dimacs] 0.0174 None
+[7_k_3_n_5_m_24.dimacs] 0.0182 None
+[8_k_3_n_5_m_10.dimacs] 0.0188 [False, False, False, False, False]
+[8_k_3_n_5_m_11.dimacs] 0.0188 None
+[8_k_3_n_5_m_12.dimacs] 0.0181 None
+[8_k_3_n_5_m_13.dimacs] 0.0001 [True, False, True, True, False]
+[8_k_3_n_5_m_14.dimacs] 0.0001 [True, False, False, False, False]
+[8_k_3_n_5_m_15.dimacs] 0.0184 None
+[8_k_3_n_5_m_16.dimacs] 0.018 None
+[8_k_3_n_5_m_17.dimacs] 0.0175 None
+[8_k_3_n_5_m_18.dimacs] 0.0175 None
+[8_k_3_n_5_m_19.dimacs] 0.0001 [True, False, False, True, True]
+[8_k_3_n_5_m_20.dimacs] 0.0001 [True, True, False, False, False]
+[8_k_3_n_5_m_21.dimacs] 0.0181 None
+[8_k_3_n_5_m_22.dimacs] 0.0174 None
+[8_k_3_n_5_m_23.dimacs] 0.0193 None
+[8_k_3_n_5_m_24.dimacs] 0.0178 None
+[9_k_3_n_5_m_10.dimacs] 0.0178 [True, True, True, False, False]
+[9_k_3_n_5_m_11.dimacs] 0.0001 [True, True, True, False, True]
+[9_k_3_n_5_m_12.dimacs] 0.0177 None
+[9_k_3_n_5_m_13.dimacs] 0.0181 None
+[9_k_3_n_5_m_14.dimacs] 0.0185 None
+[9_k_3_n_5_m_15.dimacs] 0.0176 None
+[9_k_3_n_5_m_16.dimacs] 0.021 None
+[9_k_3_n_5_m_17.dimacs] 0.0181 None
+[9_k_3_n_5_m_18.dimacs] 0.0174 None
+[9_k_3_n_5_m_19.dimacs] 0.0176 None
+[9_k_3_n_5_m_20.dimacs] 0.0178 None
+[9_k_3_n_5_m_21.dimacs] 0.0189 None
+[9_k_3_n_5_m_22.dimacs] 0.0203 None
+[9_k_3_n_5_m_23.dimacs] 0.019 None
+[9_k_3_n_5_m_24.dimacs] 0.0184 None

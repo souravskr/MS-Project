@@ -1,0 +1,6 @@
+iterations,truly_identified_sat,truly_identified_unsat,total_sat,total_instance
+26,54,24,126,150
+50,58,24,126,150
+100,59,24,126,150
+200,59,24,126,150
+512,59,24,126,150
