@@ -1,0 +1,31 @@
+Namespace(clip_val=0.5, d=128, final_reducer='mean', l2_weight=1e-09, lr_decay=0.99, lr_decay_steps=5, lr_decay_type='exp', lr_end=1e-06, lr_power=0.5, lr_start=0.0001, lstm_transfer_fn='relu', mlp_transfer_fn='relu', n_msg_layers=3, n_rounds=512, n_saves_to_keep=1, n_vote_layers=3, np_seed=0, restore_epoch=4, restore_id=100, run_id=None, solve_dir='data/test/php', tf_seed=0)
+1 1
+Total Runtime to find every soulution: 0.04346132278442383
+[php_0_m_10_n_15.dimacs] 0.0435 None
+1 1
+Total Runtime to find every soulution: 0.029039621353149414
+[php_1_m_6_n_14.dimacs] 0.029 None
+1 1
+Total Runtime to find every soulution: 0.028345346450805664
+[php_2_m_5_n_17.dimacs] 0.0283 None
+1 1
+Total Runtime to find every soulution: 0.03281235694885254
+[php_3_m_7_n_20.dimacs] 0.0328 None
+1 1
+Total Runtime to find every soulution: 0.02628612518310547
+[php_4_m_5_n_11.dimacs] 0.0263 None
+1 1
+Total Runtime to find every soulution: 0.030758380889892578
+[php_5_m_9_n_13.dimacs] 0.0308 None
+1 1
+Total Runtime to find every soulution: 0.02671527862548828
+[php_6_m_5_n_15.dimacs] 0.0267 None
+1 1
+Total Runtime to find every soulution: 0.025079727172851562
+[php_7_m_5_n_11.dimacs] 0.0251 None
+1 1
+Total Runtime to find every soulution: 0.032843828201293945
+[php_8_m_10_n_15.dimacs] 0.0328 None
+1 1
+Total Runtime to find every soulution: 0.030128002166748047
+[php_9_m_6_n_14.dimacs] 0.0301 None
